@@ -1,6 +1,6 @@
 <!-- Banner (Replace with your own image URL) -->
 <p align="center">
-  <img src="" width="100%" alt="Rinkesh Parmar Banner"/>
+  <img src="https://github.com/Rinkesh-Parmar/Rinkesh-Parmar/blob/main/IMG_8518.jpg" width="30%" alt="Rinkesh Parmar Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Rinkesh Parmar 👋</h1>
